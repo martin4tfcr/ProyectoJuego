@@ -1,2 +1,0 @@
-# ProyectoJuego
-proyecto final
